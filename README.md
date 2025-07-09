@@ -1,4 +1,4 @@
-##👋 Hey there, I'm Kaustubh!
+👋 Hey there, I'm Kaustubh!
 
 🚀 Passionate about building cool things with code — from memes to machines.
 
