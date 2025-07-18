@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Kaustubh!</h1>
+<h1 align="center">👋 Hey, I'm Kaustubh!</h1>
 <p align="center">🚀 Turning code into creativity — from quirky games to full-stack apps.</p>
 
 ---
