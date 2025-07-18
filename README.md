@@ -28,7 +28,8 @@
 ### 🚀 Projects I'm Proud Of
 
 - 💃🕺 **Wedding Planner Web App** – Plan events with style  
-- 🥦 **Vegetable-Themed Web App** – A colorful and healthy UI experiment  
+- 🥦 **Vegetable-Themed Web App** – A colorful and healthy UI experiment
+- 🚗 **Luxury Drive Showcase** – A sleek and elegant UI experience built for speed and style
 
 <br/>
 
