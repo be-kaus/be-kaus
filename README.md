@@ -37,7 +37,7 @@
 
 ### 📫 Let's Connect
 
-- 💌 Email: [kaustubhsoni34@gmail.com](mailto:kaustubhsoni34@gmail.com)  
+- 💌 Email: kaustubhsoni34@gmail.com  
 - 🤝 Open to collaboration, side projects, or just sharing dev memes  
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
